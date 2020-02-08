@@ -25,7 +25,6 @@ The Presenter asks the questions they have about the work. In answering, the Aud
 
 ## Step 4: The Audience Asks Neutral Questions
 The Audience now gets to ask neutral questions about the work. Questions are neutral when they do not have an opinion couched in them.
-
 - Example: Instead of, “Why did you do it this way?” try “What solutions did you explore?”
 - Can you say more about ______?
 - What things did you eliminate?
