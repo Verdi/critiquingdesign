@@ -1,8 +1,6 @@
 # Critiquing Design - Cheat Sheet
 We’ve found this process generally takes 45 minutes to 1 hour. It will definitely take longer the first time or two.
 
-For questions, contact [Michael Verdi](mailto:questions@critiquing.design).
-
 ## Presentation (10 min)
 - Context: user problems, business goals, constraints, ethical or social implications, design values, stage of work?
 - Presentation
