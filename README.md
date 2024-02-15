@@ -5,4 +5,4 @@ Most advice about critique lives as a bunch of good ideas that you should try to
 
 ----
 ### Credits
-This process is adapted from the one created by [Liz Lerman](https://lizlerman.com/critical-response-process/). Steve Bailey and [Jump-Start Performance Co.](http://www.jump-start.org/) introduced me to it many, many years ago. [Sharon Bautista](https://twitter.com/happy_stomach), [Tiffanie Shakespeare](https://twitter.com/lime124), and [Jen Simmons](https://twitter.com/jensimmons) encouraged and supported me in adapting and bringing this to our work at Mozilla where the [Firefox UX team](https://twitter.com/FirefoxUX) has embraced and shaped it.
+This process is adapted from the one created by [Liz Lerman](https://lizlerman.com/critical-response-process/). Steve Bailey and [Jump-Start Performance Co.](http://www.jump-start.org/) introduced me to it many, many years ago. Sharon Bautista, Tiffanie Shakespeare, and [Jen Simmons](https://front-end.social/@jensimmons) encouraged and supported me in adapting and bringing this to our work at Mozilla where the [Firefox UX team](https://blog.mozilla.org/ux/) has embraced and shaped it.
